@@ -1,0 +1,11 @@
+D:\GitHub\XF.GridView\XF.GridView\XF.GridView\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GitHub\XF.GridView\XF.GridView\XF.GridView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GitHub\XF.GridView\XF.GridView\XF.GridView\obj\Debug\netstandard2.0\XF.GridView.csproj.CoreCompileInputs.cache
+D:\GitHub\XF.GridView\XF.GridView\XF.GridView\obj\Debug\netstandard2.0\XF.GridView.AssemblyInfoInputs.cache
+D:\GitHub\XF.GridView\XF.GridView\XF.GridView\obj\Debug\netstandard2.0\XF.GridView.AssemblyInfo.cs
+D:\GitHub\XF.GridView\XF.GridView\XF.GridView\obj\Debug\netstandard2.0\XF.GridView.dll
+D:\GitHub\XF.GridView\XF.GridView\XF.GridView\obj\Debug\netstandard2.0\XF.GridView.pdb
+D:\GitHub\XF.GridView\XF.GridView\XF.GridView\bin\Debug\netstandard2.0\XF.GridView.deps.json
+D:\GitHub\XF.GridView\XF.GridView\XF.GridView\bin\Debug\netstandard2.0\XF.GridView.dll
+D:\GitHub\XF.GridView\XF.GridView\XF.GridView\bin\Debug\netstandard2.0\XF.GridView.pdb
+D:\GitHub\XF.GridView\XF.GridView\XF.GridView\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XF.GridView.MainPage"
+             Title="ListView Simple">
+  <StackLayout>
+    <ListView x:Name="LvListaFacturas" HasUnevenRows="True" VerticalOptions="Fill">
+      <ListView.ItemTemplate>
+        <DataTemplate>
+          <ViewCell>
+            <Frame BackgroundColor="Transparent" Padding="2" OutlineColor="Red" Margin="5,5,5,5">
+              <StackLayout Orientation="Horizontal" HorizontalOptions="Fill" Padding="0" >
+                <StackLayout Orientation="Vertical">
+                  <Label Text = "{Binding Apellidos, StringFormat='Apellidos: {0}'}"/>
+                  <Label Text = "{Binding Nombres, StringFormat='Nombres: {0}'}"/>
+                  <Label Text = "{Binding Identificacion, StringFormat='Identificacion: {0}'}"/>
+                </StackLayout>
+              </StackLayout>
+            </Frame>
+          </ViewCell>
+        </DataTemplate>
+      </ListView.ItemTemplate>
+    </ListView>
+  </StackLayout>
+</ContentPage>
